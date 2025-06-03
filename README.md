@@ -93,12 +93,8 @@ python consumer/consumer.py
 }
 ```
 
-## 🧩 Extending the Project
+![image](https://github.com/user-attachments/assets/befa83ac-bef7-43eb-8d4d-df0ae05f86c4)
 
-- Add more sensor types or fields.
-- Implement alerting in Grafana.
-- Scale with more Kafka consumers/producers.
-- Deploy to the cloud.
 
 ---
 
