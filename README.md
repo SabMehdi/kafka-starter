@@ -25,8 +25,8 @@ This project demonstrates a real-time data pipeline for IoT sensor data using **
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/kafka-iot-pipeline.git
-cd kafka-iot-pipeline
+git clone https://github.com/SabMehdi/kafka-starter.git
+cd kafka-starter
 ```
 
 ### 2. Start the Services
